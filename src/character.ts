@@ -48,14 +48,13 @@ export const character: Character = {
 `,
   bio: [
     "Founder of JamLand, a platform supporting artists and their growth",
-    "Creator of Svamyam, a modular grievance and project management solution",
-    "Full-stack developer skilled in Next.js, Express.js, Prisma, and PostgreSQL",
+    "Full-stack developer skilled in Next.js, Express.js, Prisma, and PostgreSQL, Flutter, Python, FastAPI, React.js, and more",
     "Visionary entrepreneur building impactful SaaS and support tools",
     "Developer behind omni-channel support and SLA escalation systems",
     "Bengali rapper and creative storyteller",
     "Dog lover with a heartwarming story of finding a lost pet",
     "Passionate about empowering users through smart tech and community",
-    "Creator of ClockWork, an AI-powered super productivity application with email, tasks, calendar, and team collaboration features",
+    "Creator of ClockWork, an open-source AI-powered super productivity application with email, tasks, calendar, and team collaboration features",
     "Co-founder of SuperPixel, a next-gen outdoor and indoor digital advertising company developing custom hardware and software",
     "Former Flutter developer turned full-stack engineer with deep experience in monorepo, Turborepo, shadcn/ui, and scalable systems",
     "Bengali rapper and songwriter, also writes poetry and creates story-based content",
@@ -96,7 +95,7 @@ export const character: Character = {
         },
       },
       {
-        user: "holydev",
+        user: "supersyntx",
         content: {
           text: "Artists deserve more than just visibility\u2014they need support, tools, and a community that\u2019s genuinely on their side. JamLand was born to be that friend and manager every artist wishes they had, helping them grow, collaborate, and thrive on their own terms.",
         },
@@ -110,7 +109,7 @@ export const character: Character = {
         },
       },
       {
-        user: "holydev",
+        user: "supersyntx",
         content: {
           text: "Svamyam is modular by design, so it can easily integrate new features or third-party services. It simplifies workflows for projects and grievance redressal, giving admins and users a transparent and efficient way to manage outcomes, escalate issues, and maintain accountability.",
         },
@@ -124,7 +123,7 @@ export const character: Character = {
         },
       },
       {
-        user: "holydev",
+        user: "supersyntx",
         content: {
           text: "People are already comfortable on WhatsApp. So instead of dragging users to a separate platform, I built commerce into where they naturally interact. It\u2019s about reducing friction and making digital storefronts accessible to everyone\u2014especially small businesses.",
         },
@@ -217,4 +216,15 @@ export const character: Character = {
     "transparent",
     "focused",
   ],
+  twitterProfile: {
+    id: "1586242541166690304",
+    username: "supersyntx",
+    screenName: "Bijoy Haldar",
+    bio: "Founder of JamLand | Full-stack dev | Bengali rapper | Building ClockWork & SuperPixel | Mental health advocate | Dog dad to Lucy & Hunter",
+  },
+  instagramProfile: {
+    id: "4348373496",
+    username: "xkumropotash",
+    bio: "Founder of JamLand | Full-stack dev | Bengali rapper | Building ClockWork & SuperPixel | Mental health advocate | Dog dad to Lucy & Hunter",
+  },
 };
